@@ -5,3 +5,5 @@ Development at UCAS. I created this portfolio for my Software Engineering
 course to practice using Git and GitHub.
 
 Version 1.0 includes a blog section and a link to it from the navigation menu.
+
+The Blog link on the homepage opens the blog section.
